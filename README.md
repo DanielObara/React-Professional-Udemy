@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +67,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+=======
+# React-Professional-Udemy
+This project was the first one I developed following the steps of the "React Professional" course at Udemy. 
+This project has practical examples of how to use React and Redux.
+>>>>>>> 0835e25ecad145a565d6475ca74f5e6fc3667a25
